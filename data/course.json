@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "84a4c197-2301-4d53-bc04-dbc9170561c4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d01d8b78-0947-49fe-b26e-47af74a74397",
+    "website": "astrophysics-ii"
+  },
+  "course_title": "Astrophysics II",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This course broadly covers galactic dynamics and large-scale structure in the universe. Major topics include: galaxies, cosmology, structure formation, cosmic microwave background, Big Bang nucleosynthesis, and thermal history of the universe.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.902",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "astrophysics-ii"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Projects"
+  ],
+  "site_uid": "424ba92d-cb02-4dde-acbf-9bbb61bdf4ef",
+  "site_short_id": "8.902-fall-2023",
+  "site_url_path": "courses/8-902-astrophysics-ii-fall-2023"
+}
