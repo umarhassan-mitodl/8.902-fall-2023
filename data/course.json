@@ -23,7 +23,7 @@
     "website": "astrophysics-ii"
   },
   "course_title": "Astrophysics II",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course broadly covers galactic dynamics and large-scale structure in the universe. Major topics include: galaxies, cosmology, structure formation, cosmic microwave background, Big Bang nucleosynthesis, and thermal history of the universe.",
   "department_numbers": [
@@ -35,7 +35,6 @@
     "content": "",
     "website": "astrophysics-ii"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets",
