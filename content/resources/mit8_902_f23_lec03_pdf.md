@@ -5,8 +5,6 @@ draft: false
 file: /courses/8-902-astrophysics-ii-fall-2023/mit8_902_f23_lec03.pdf
 file_size: 567701
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

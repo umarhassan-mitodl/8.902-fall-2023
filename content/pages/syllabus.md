@@ -83,6 +83,6 @@ The breakdown for the final grade is as follows:      
 
 ## Recommended Textbooks
 
-Binney, James, and Scott Tremaine. 2011. [*Galactic Dynamics ,* 2<sup>nd</sup> edition](https://search.worldcat.org/en/title/781469997). Princeton University Press. ISBN: 9780691130279.
+Binney, James, and Scott Tremaine. 2011. {{% resource_link "ae046578-3dbf-4aa2-9f61-676759a6d214" "*Galactic Dynamics ,* 2<sup>nd</sup> edition" %}}. Princeton University Press. ISBN: 9780691130279.
 
-Mo, Houjun, Frank Van den Bosch, and Simon D. M White. 2012. [*Galaxy Formation and Evolution*](https://search.worldcat.org/en/title/862981394). Cambridge University Press. ISBN: 9780521857932.
+Mo, Houjun, Frank Van den Bosch, and Simon D. M White. 2012. {{% resource_link "280fbedb-9167-4653-9c1f-fe3492cff6e8" "*Galaxy Formation and Evolution*" %}}. Cambridge University Press. ISBN: 9780521857932.
